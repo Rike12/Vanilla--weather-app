@@ -33,3 +33,14 @@ li{
     font-weight: 100;
     line-height: 19px;
 }
+
+.weatherapp{
+    max-width: 600px;
+    margin:30px auto;
+
+}
+.weatherapp{
+    padding: 20px;
+    border: 1px solid #dadde1;
+    border-radius: 5px;
+}
